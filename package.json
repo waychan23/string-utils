@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/waychan23/string-utils.git"
   },
-  "keywords": ['node', 'utility', 'string'],
+  "keywords": ["node", "utility", "string"],
   "author": "waychan23@hotmail.com",
   "license": "MIT",
   "bugs": {
